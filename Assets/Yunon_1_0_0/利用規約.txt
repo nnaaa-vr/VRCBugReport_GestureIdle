@@ -1,0 +1,45 @@
+3Dキャラクターモデル「ユノン」
+3D Character Model "Yunon"
+製作・著作：ラディカ(RADIKA)
+Creator and Copyright: RADIKA
+Twitter ID: @radialwebsite
+Pixiv Booth: https://radialweb.booth.pm/
+
+Achieved with reflex shader 2.1.1 constructed by Reflex (https://reflexatelier.com/)
+
+①このモデルデータおよびキャラクターデザインはラディカ(RADIKA)の著作権物です。
+　権利者を偽ることを禁じます。
+  RADIKA has copyright of these 3D model data and character design and other included files. Do not spoof author of these 3D model, other included files and character design.
+
+②本データを著作者に無断で有料販売したり、有料の改造業務を行うことを禁じます。
+  Do not sell these model data and reworked model data and other included files.
+
+③本モデルの改変データを無料配布する事が可能です。ただし、配布する際は配布ページ等、利用者の目に留まる箇所に権利者（ラディカ）のクレジットを明記してください。なお、例外として、VRChatのアバターペデスタル及びアバタークローン用パブリックアバターとしてVRChat内で配布する場合はクレジットの記載は不要です。
+　It is allowed to release reworked 3D models included this package for third person. In case of release for third person, indication of coporight of "RADIKA" in visible place. For example, in download web page.
+
+④本モデルの元データまたは利用者が元データと判別できない状態での再配布はいかなる場合も禁止します。
+  Do not release raw data included this package or any data which is undecidable for raw data.
+
+③電子コンテンツにおけるアバターとしての利用を許可します。(VRChat、VirtualCast、Clusterなど)
+　他プレイヤーやワールド製作者様への迷惑行為にならないようご利用ください。
+  It is allowed to utilize for avatar models (include VRChat, VirtualCast, VWorld and Cluster).Do not make annoyance to other players and world publishers.
+
+④本モデル及び改造モデルを使ったゲーム、CG、MMD、バーチャルYoutuber、配信者を含む電子コンテンツへの使用を許可します。
+　また、必ずしも「ユノン」というキャラクターとして使用する必要はありません。
+  It is allowed to use these 3D models or reworked models for contents includes games, CGs, Virtual Youtuber contents, and broadcasting.
+  It does not have to use these 3D models as character "Yunon".
+
+⑤収益化、投げ銭、クリエイター支援プラットフォームなどの使用も可能です。ただし、年間の売上げ高が100万円を超える商用利用を権利者に無断で行うことは禁じます。
+  It id allowed to use these 3D models for merchandise without proceeds exceeding one million Japanese Yen per year.
+
+⑥改造、部分的なパーツの流用を許可します。ただし改造用のパーツに規約が設定されている場合は、そちらの規約も順守してください。また、使用が許可されていないパーツを使用した改造はおやめください。
+  It is allowed to rework these 3D models and use part of these 3D models for reworking of other models.
+
+⑦R-18やR-18Gなどの表現は規制しませんが、TPOを弁えたご利用をお願いします。
+  It is allowed to use these 3D models for R-18 or R-18G. Do not make annoyance to other users.
+
+⑧配信などで第三者が使用しているアバターが映像に映ってもクレジットなどを記載する必要はありません。
+  Do not have to indicate copyright or credit in third person's broadcasting.
+
+⑨MMDを含む他形式のファイルへ変換して使用することが可能です。
+  It is allowed to convert these 3D models to other file formats include MMD model.

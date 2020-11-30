@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 63ac41b0c71e55f4dbff01b0af25bbd0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Boots
+    100006: Chest
+    100008: Chest_L
+    100010: Chest_L.001
+    100012: Chest_L.002
+    100014: Chest_L.003
+    100016: Chest_L.004
+    100018: Chest_L.005
+    100020: Chest_L.006
+    100022: Chest_L.007
+    100024: Chest_L.008
+    100026: Chest_L.009
+    100028: Chest_L.009_end
+    100030: Chest_L.012
+    100032: Chest_L.013
+    100034: Chest_L.014
+    100036: Chest_L.015
+    100038: Chest_L.016
+    100040: Chest_L.017
+    100042: Chest_L.018
+    100044: Chest_L.019
+    100046: Chest_L.020
+    100048: Chest_L.021
+    100050: Chest_L.021_end
+    100052: Chest_R
+    100054: Chest_R.001
+    100056: Chest_R.002
+    100058: Chest_R.003
+    100060: Chest_R.004
+    100062: Chest_R.005
+    100064: Chest_R.006
+    100066: Chest_R.007
+    100068: Chest_R.008
+    100070: Chest_R.009
+    100072: Chest_R.009_end
+    100074: Chest_R.012
+    100076: Chest_R.013
+    100078: Chest_R.014
+    100080: Chest_R.015
+    100082: Chest_R.016
+    100084: Chest_R.017
+    100086: Chest_R.018
+    100088: Chest_R.019
+    100090: Chest_R.020
+    100092: Chest_R.021
+    100094: Chest_R.021_end
+    100096: Ear L.001
+    100098: Ear L.002
+    100100: Ear L.002_end
+    100102: Ear R.001
+    100104: Ear R.002
+    100106: Ear R.002_end
+    100108: Ear Root
+    100110: Foot.L
+    100112: Foot.R
+    100114: Hand.L
+    100116: Hand.R
+    100118: Head
+    100120: Hips
+    100122: HiraHira
+    100124: Index Distal.L
+    100126: Index Distal.R
+    100128: Index End.L
+    100130: Index End.L_end
+    100132: Index End.R
+    100134: Index End.R_end
+    100136: Index Intermediate.L
+    100138: Index Intermediate.R
+    100140: Index Proximal.L
+    100142: Index Proximal.R
+    100144: Katakake
+    100146: KataKazari
+    100148: KubiBadge
+    100150: Kubikazari
+    100152: LeftEye
+    100154: LeftEye_end
+    100156: Little Distal.L
+    100158: Little Distal.R
+    100160: Little End.L
+    100162: Little End.L_end
+    100164: Little End.R
+    100166: Little End.R_end
+    100168: Little Intermediate.L
+    100170: Little Intermediate.R
+    100172: Little Proximal.L
+    100174: Little Proximal.R
+    100176: Lower Arm.L
+    100178: Lower Arm.R
+    100180: Lower Leg.L
+    100182: Lower Leg.R
+    100184: Maegami
+    100186: Maekake
+    100188: Middle Distal.L
+    100190: Middle Distal.R
+    100192: Middle End.L
+    100194: Middle End.L_end
+    100196: Middle End.R
+    100198: Middle End.R_end
+    100200: Middle Intermediate.L
+    100202: Middle Intermediate.R
+    100204: Middle Proximal.L
+    100206: Middle Proximal.R
+    100208: mimi
+    100210: Nail
+    100212: Neck
+    100214: Pantsu
+    100216: RightEye
+    100218: RightEye_end
+    100220: Ring Distal.L
+    100222: Ring Distal.R
+    100224: Ring End.L
+    100226: Ring End.L_end
+    100228: Ring End.R
+    100230: Ring End.R_end
+    100232: Ring Intermediate.L
+    100234: Ring Intermediate.R
+    100236: Ring Proximal.L
+    100238: Ring Proximal.R
+    100240: Shoulder.L
+    100242: Shoulder.R
+    100244: SideCloth
+    100246: Spine
+    100248: Thumb Distal.L
+    100250: Thumb Distal.R
+    100252: Thumb End.L
+    100254: Thumb End.L_end
+    100256: Thumb End.R
+    100258: Thumb End.R_end
+    100260: Thumb Intermediate.L
+    100262: Thumb Intermediate.R
+    100264: Thumb Proximal.L
+    100266: Thumb Proximal.R
+    100268: Toe.L
+    100270: Toe.L_end
+    100272: Toe.R
+    100274: Toe.R_end
+    100276: Upper Arm.L
+    100278: Upper Arm.R
+    100280: Upper Leg.L
+    100282: Upper Leg.R
+    100284: Ushirogami
+    100286: //RootNode
+    400000: Armature
+    400002: Body
+    400004: Boots
+    400006: Chest
+    400008: Chest_L
+    400010: Chest_L.001
+    400012: Chest_L.002
+    400014: Chest_L.003
+    400016: Chest_L.004
+    400018: Chest_L.005
+    400020: Chest_L.006
+    400022: Chest_L.007
+    400024: Chest_L.008
+    400026: Chest_L.009
+    400028: Chest_L.009_end
+    400030: Chest_L.012
+    400032: Chest_L.013
+    400034: Chest_L.014
+    400036: Chest_L.015
+    400038: Chest_L.016
+    400040: Chest_L.017
+    400042: Chest_L.018
+    400044: Chest_L.019
+    400046: Chest_L.020
+    400048: Chest_L.021
+    400050: Chest_L.021_end
+    400052: Chest_R
+    400054: Chest_R.001
+    400056: Chest_R.002
+    400058: Chest_R.003
+    400060: Chest_R.004
+    400062: Chest_R.005
+    400064: Chest_R.006
+    400066: Chest_R.007
+    400068: Chest_R.008
+    400070: Chest_R.009
+    400072: Chest_R.009_end
+    400074: Chest_R.012
+    400076: Chest_R.013
+    400078: Chest_R.014
+    400080: Chest_R.015
+    400082: Chest_R.016
+    400084: Chest_R.017
+    400086: Chest_R.018
+    400088: Chest_R.019
+    400090: Chest_R.020
+    400092: Chest_R.021
+    400094: Chest_R.021_end
+    400096: Ear L.001
+    400098: Ear L.002
+    400100: Ear L.002_end
+    400102: Ear R.001
+    400104: Ear R.002
+    400106: Ear R.002_end
+    400108: Ear Root
+    400110: Foot.L
+    400112: Foot.R
+    400114: Hand.L
+    400116: Hand.R
+    400118: Head
+    400120: Hips
+    400122: HiraHira
+    400124: Index Distal.L
+    400126: Index Distal.R
+    400128: Index End.L
+    400130: Index End.L_end
+    400132: Index End.R
+    400134: Index End.R_end
+    400136: Index Intermediate.L
+    400138: Index Intermediate.R
+    400140: Index Proximal.L
+    400142: Index Proximal.R
+    400144: Katakake
+    400146: KataKazari
+    400148: KubiBadge
+    400150: Kubikazari
+    400152: LeftEye
+    400154: LeftEye_end
+    400156: Little Distal.L
+    400158: Little Distal.R
+    400160: Little End.L
+    400162: Little End.L_end
+    400164: Little End.R
+    400166: Little End.R_end
+    400168: Little Intermediate.L
+    400170: Little Intermediate.R
+    400172: Little Proximal.L
+    400174: Little Proximal.R
+    400176: Lower Arm.L
+    400178: Lower Arm.R
+    400180: Lower Leg.L
+    400182: Lower Leg.R
+    400184: Maegami
+    400186: Maekake
+    400188: Middle Distal.L
+    400190: Middle Distal.R
+    400192: Middle End.L
+    400194: Middle End.L_end
+    400196: Middle End.R
+    400198: Middle End.R_end
+    400200: Middle Intermediate.L
+    400202: Middle Intermediate.R
+    400204: Middle Proximal.L
+    400206: Middle Proximal.R
+    400208: mimi
+    400210: Nail
+    400212: Neck
+    400214: Pantsu
+    400216: RightEye
+    400218: RightEye_end
+    400220: Ring Distal.L
+    400222: Ring Distal.R
+    400224: Ring End.L
+    400226: Ring End.L_end
+    400228: Ring End.R
+    400230: Ring End.R_end
+    400232: Ring Intermediate.L
+    400234: Ring Intermediate.R
+    400236: Ring Proximal.L
+    400238: Ring Proximal.R
+    400240: Shoulder.L
+    400242: Shoulder.R
+    400244: SideCloth
+    400246: Spine
+    400248: Thumb Distal.L
+    400250: Thumb Distal.R
+    400252: Thumb End.L
+    400254: Thumb End.L_end
+    400256: Thumb End.R
+    400258: Thumb End.R_end
+    400260: Thumb Intermediate.L
+    400262: Thumb Intermediate.R
+    400264: Thumb Proximal.L
+    400266: Thumb Proximal.R
+    400268: Toe.L
+    400270: Toe.L_end
+    400272: Toe.R
+    400274: Toe.R_end
+    400276: Upper Arm.L
+    400278: Upper Arm.R
+    400280: Upper Leg.L
+    400282: Upper Leg.R
+    400284: Ushirogami
+    400286: //RootNode
+    2100000: Mat_Parts02
+    2100002: Mat_Parts01
+    2100004: Mat_Standard
+    2100006: Parts04
+    2100008: Mat_Parts03
+    4300000: Body
+    4300002: Katakake
+    4300004: Boots
+    4300006: SideCloth
+    4300008: Maekake
+    4300010: Maegami
+    4300012: mimi
+    4300014: HiraHira
+    4300016: KubiBadge
+    4300018: Kubikazari
+    4300020: Pantsu
+    4300022: Ushirogami
+    4300024: KataKazari
+    4300026: Nail
+    9500000: //RootNode
+    13700000: Body
+    13700002: Boots
+    13700004: HiraHira
+    13700006: Katakake
+    13700008: KataKazari
+    13700010: KubiBadge
+    13700012: Kubikazari
+    13700014: Maegami
+    13700016: Maekake
+    13700018: mimi
+    13700020: Nail
+    13700022: Pantsu
+    13700024: SideCloth
+    13700026: Ushirogami
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

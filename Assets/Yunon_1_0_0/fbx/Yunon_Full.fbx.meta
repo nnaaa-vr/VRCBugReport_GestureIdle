@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 36172cef0cb1a3b44b8519024445de02
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Chest
+    100006: Chest_L
+    100008: Chest_L.001
+    100010: Chest_L.002
+    100012: Chest_L.003
+    100014: Chest_L.004
+    100016: Chest_L.005
+    100018: Chest_L.006
+    100020: Chest_L.007
+    100022: Chest_L.008
+    100024: Chest_L.009
+    100026: Chest_L.010
+    100028: Chest_L.011
+    100030: Chest_L.011_end
+    100032: Chest_L.012
+    100034: Chest_L.013
+    100036: Chest_L.014
+    100038: Chest_L.015
+    100040: Chest_L.016
+    100042: Chest_L.017
+    100044: Chest_L.018
+    100046: Chest_L.019
+    100048: Chest_L.020
+    100050: Chest_L.021
+    100052: Chest_L.022
+    100054: Chest_L.023
+    100056: Chest_L.023_end
+    100058: Chest_R
+    100060: Chest_R.001
+    100062: Chest_R.002
+    100064: Chest_R.003
+    100066: Chest_R.004
+    100068: Chest_R.005
+    100070: Chest_R.006
+    100072: Chest_R.007
+    100074: Chest_R.008
+    100076: Chest_R.009
+    100078: Chest_R.010
+    100080: Chest_R.011
+    100082: Chest_R.011_end
+    100084: Chest_R.012
+    100086: Chest_R.013
+    100088: Chest_R.014
+    100090: Chest_R.015
+    100092: Chest_R.016
+    100094: Chest_R.017
+    100096: Chest_R.018
+    100098: Chest_R.019
+    100100: Chest_R.020
+    100102: Chest_R.021
+    100104: Chest_R.022
+    100106: Chest_R.023
+    100108: Chest_R.023_end
+    100110: Ear L.001
+    100112: Ear L.002
+    100114: Ear L.002_end
+    100116: Ear R.001
+    100118: Ear R.002
+    100120: Ear R.002_end
+    100122: Ear Root
+    100124: Foot.L
+    100126: Foot.R
+    100128: Hand.L
+    100130: Hand.R
+    100132: Head
+    100134: Head.001
+    100136: Head.002
+    100138: Head.003
+    100140: Head.004
+    100142: Head.005
+    100144: Head.006
+    100146: Head.007
+    100148: Head.008
+    100150: Head.009
+    100152: Head.010
+    100154: Head.011
+    100156: Head.012
+    100158: Head.012_end
+    100160: Head_L
+    100162: Head_L.001
+    100164: Head_L.002
+    100166: Head_L.003
+    100168: Head_L.004
+    100170: Head_L.005
+    100172: Head_L.006
+    100174: Head_L.007
+    100176: Head_L.008
+    100178: Head_L.009
+    100180: Head_L.010
+    100182: Head_L.011
+    100184: Head_L.011_end
+    100186: Head_R
+    100188: Head_R.001
+    100190: Head_R.002
+    100192: Head_R.003
+    100194: Head_R.004
+    100196: Head_R.005
+    100198: Head_R.006
+    100200: Head_R.007
+    100202: Head_R.008
+    100204: Head_R.009
+    100206: Head_R.010
+    100208: Head_R.011
+    100210: Head_R.011_end
+    100212: Hips
+    100214: Index Distal.L
+    100216: Index Distal.R
+    100218: Index End.L
+    100220: Index End.L_end
+    100222: Index End.R
+    100224: Index End.R_end
+    100226: Index Intermediate.L
+    100228: Index Intermediate.R
+    100230: Index Proximal.L
+    100232: Index Proximal.R
+    100234: LeftEye
+    100236: LeftEye_end
+    100238: Little Distal.L
+    100240: Little Distal.R
+    100242: Little End.L
+    100244: Little End.L_end
+    100246: Little End.R
+    100248: Little End.R_end
+    100250: Little Intermediate.L
+    100252: Little Intermediate.R
+    100254: Little Proximal.L
+    100256: Little Proximal.R
+    100258: Lower Arm.L
+    100260: Lower Arm.R
+    100262: Lower Leg.L
+    100264: Lower Leg.R
+    100266: Middle Distal.L
+    100268: Middle Distal.R
+    100270: Middle End.L
+    100272: Middle End.L_end
+    100274: Middle End.R
+    100276: Middle End.R_end
+    100278: Middle Intermediate.L
+    100280: Middle Intermediate.R
+    100282: Middle Proximal.L
+    100284: Middle Proximal.R
+    100286: Neck
+    100288: RightEye
+    100290: RightEye_end
+    100292: Ring Distal.L
+    100294: Ring Distal.R
+    100296: Ring End.L
+    100298: Ring End.L_end
+    100300: Ring End.R
+    100302: Ring End.R_end
+    100304: Ring Intermediate.L
+    100306: Ring Intermediate.R
+    100308: Ring Proximal.L
+    100310: Ring Proximal.R
+    100312: Shoulder.L
+    100314: Shoulder.R
+    100316: Spine
+    100318: Thumb Distal.L
+    100320: Thumb Distal.R
+    100322: Thumb End.L
+    100324: Thumb End.L_end
+    100326: Thumb End.R
+    100328: Thumb End.R_end
+    100330: Thumb Intermediate.L
+    100332: Thumb Intermediate.R
+    100334: Thumb Proximal.L
+    100336: Thumb Proximal.R
+    100338: Toe.L
+    100340: Toe.L_end
+    100342: Toe.R
+    100344: Toe.R_end
+    100346: Upper Arm.L
+    100348: Upper Arm.R
+    100350: Upper Leg.L
+    100352: Upper Leg.R
+    100354: //RootNode
+    400000: Armature
+    400002: Body
+    400004: Chest
+    400006: Chest_L
+    400008: Chest_L.001
+    400010: Chest_L.002
+    400012: Chest_L.003
+    400014: Chest_L.004
+    400016: Chest_L.005
+    400018: Chest_L.006
+    400020: Chest_L.007
+    400022: Chest_L.008
+    400024: Chest_L.009
+    400026: Chest_L.010
+    400028: Chest_L.011
+    400030: Chest_L.011_end
+    400032: Chest_L.012
+    400034: Chest_L.013
+    400036: Chest_L.014
+    400038: Chest_L.015
+    400040: Chest_L.016
+    400042: Chest_L.017
+    400044: Chest_L.018
+    400046: Chest_L.019
+    400048: Chest_L.020
+    400050: Chest_L.021
+    400052: Chest_L.022
+    400054: Chest_L.023
+    400056: Chest_L.023_end
+    400058: Chest_R
+    400060: Chest_R.001
+    400062: Chest_R.002
+    400064: Chest_R.003
+    400066: Chest_R.004
+    400068: Chest_R.005
+    400070: Chest_R.006
+    400072: Chest_R.007
+    400074: Chest_R.008
+    400076: Chest_R.009
+    400078: Chest_R.010
+    400080: Chest_R.011
+    400082: Chest_R.011_end
+    400084: Chest_R.012
+    400086: Chest_R.013
+    400088: Chest_R.014
+    400090: Chest_R.015
+    400092: Chest_R.016
+    400094: Chest_R.017
+    400096: Chest_R.018
+    400098: Chest_R.019
+    400100: Chest_R.020
+    400102: Chest_R.021
+    400104: Chest_R.022
+    400106: Chest_R.023
+    400108: Chest_R.023_end
+    400110: Ear L.001
+    400112: Ear L.002
+    400114: Ear L.002_end
+    400116: Ear R.001
+    400118: Ear R.002
+    400120: Ear R.002_end
+    400122: Ear Root
+    400124: Foot.L
+    400126: Foot.R
+    400128: Hand.L
+    400130: Hand.R
+    400132: Head
+    400134: Head.001
+    400136: Head.002
+    400138: Head.003
+    400140: Head.004
+    400142: Head.005
+    400144: Head.006
+    400146: Head.007
+    400148: Head.008
+    400150: Head.009
+    400152: Head.010
+    400154: Head.011
+    400156: Head.012
+    400158: Head.012_end
+    400160: Head_L
+    400162: Head_L.001
+    400164: Head_L.002
+    400166: Head_L.003
+    400168: Head_L.004
+    400170: Head_L.005
+    400172: Head_L.006
+    400174: Head_L.007
+    400176: Head_L.008
+    400178: Head_L.009
+    400180: Head_L.010
+    400182: Head_L.011
+    400184: Head_L.011_end
+    400186: Head_R
+    400188: Head_R.001
+    400190: Head_R.002
+    400192: Head_R.003
+    400194: Head_R.004
+    400196: Head_R.005
+    400198: Head_R.006
+    400200: Head_R.007
+    400202: Head_R.008
+    400204: Head_R.009
+    400206: Head_R.010
+    400208: Head_R.011
+    400210: Head_R.011_end
+    400212: Hips
+    400214: Index Distal.L
+    400216: Index Distal.R
+    400218: Index End.L
+    400220: Index End.L_end
+    400222: Index End.R
+    400224: Index End.R_end
+    400226: Index Intermediate.L
+    400228: Index Intermediate.R
+    400230: Index Proximal.L
+    400232: Index Proximal.R
+    400234: LeftEye
+    400236: LeftEye_end
+    400238: Little Distal.L
+    400240: Little Distal.R
+    400242: Little End.L
+    400244: Little End.L_end
+    400246: Little End.R
+    400248: Little End.R_end
+    400250: Little Intermediate.L
+    400252: Little Intermediate.R
+    400254: Little Proximal.L
+    400256: Little Proximal.R
+    400258: Lower Arm.L
+    400260: Lower Arm.R
+    400262: Lower Leg.L
+    400264: Lower Leg.R
+    400266: Middle Distal.L
+    400268: Middle Distal.R
+    400270: Middle End.L
+    400272: Middle End.L_end
+    400274: Middle End.R
+    400276: Middle End.R_end
+    400278: Middle Intermediate.L
+    400280: Middle Intermediate.R
+    400282: Middle Proximal.L
+    400284: Middle Proximal.R
+    400286: Neck
+    400288: RightEye
+    400290: RightEye_end
+    400292: Ring Distal.L
+    400294: Ring Distal.R
+    400296: Ring End.L
+    400298: Ring End.L_end
+    400300: Ring End.R
+    400302: Ring End.R_end
+    400304: Ring Intermediate.L
+    400306: Ring Intermediate.R
+    400308: Ring Proximal.L
+    400310: Ring Proximal.R
+    400312: Shoulder.L
+    400314: Shoulder.R
+    400316: Spine
+    400318: Thumb Distal.L
+    400320: Thumb Distal.R
+    400322: Thumb End.L
+    400324: Thumb End.L_end
+    400326: Thumb End.R
+    400328: Thumb End.R_end
+    400330: Thumb Intermediate.L
+    400332: Thumb Intermediate.R
+    400334: Thumb Proximal.L
+    400336: Thumb Proximal.R
+    400338: Toe.L
+    400340: Toe.L_end
+    400342: Toe.R
+    400344: Toe.R_end
+    400346: Upper Arm.L
+    400348: Upper Arm.R
+    400350: Upper Leg.L
+    400352: Upper Leg.R
+    400354: //RootNode
+    2100000: Mat_Parts02
+    2100002: Mat_Parts01
+    2100004: Mat_Standard
+    2100006: Parts04
+    2100008: Mat_Parts03
+    4300000: Body
+    9500000: //RootNode
+    13700000: Body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

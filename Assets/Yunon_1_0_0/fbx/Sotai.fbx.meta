@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: e17b12f097dd72e4c8dd4c8ae3e6a405
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Chest
+    100006: Foot.L
+    100008: Foot.R
+    100010: Hand.L
+    100012: Hand.R
+    100014: Head
+    100016: Hips
+    100018: Index Distal.L
+    100020: Index Distal.R
+    100022: Index End.L
+    100024: Index End.L_end
+    100026: Index End.R
+    100028: Index End.R_end
+    100030: Index Intermediate.L
+    100032: Index Intermediate.R
+    100034: Index Proximal.L
+    100036: Index Proximal.R
+    100038: LeftEye
+    100040: LeftEye_end
+    100042: Little Distal.L
+    100044: Little Distal.R
+    100046: Little End.L
+    100048: Little End.L_end
+    100050: Little End.R
+    100052: Little End.R_end
+    100054: Little Intermediate.L
+    100056: Little Intermediate.R
+    100058: Little Proximal.L
+    100060: Little Proximal.R
+    100062: Lower Arm.L
+    100064: Lower Arm.R
+    100066: Lower Leg.L
+    100068: Lower Leg.R
+    100070: Middle Distal.L
+    100072: Middle Distal.R
+    100074: Middle End.L
+    100076: Middle End.L_end
+    100078: Middle End.R
+    100080: Middle End.R_end
+    100082: Middle Intermediate.L
+    100084: Middle Intermediate.R
+    100086: Middle Proximal.L
+    100088: Middle Proximal.R
+    100090: Neck
+    100092: RightEye
+    100094: RightEye_end
+    100096: Ring Distal.L
+    100098: Ring Distal.R
+    100100: Ring End.L
+    100102: Ring End.L_end
+    100104: Ring End.R
+    100106: Ring End.R_end
+    100108: Ring Intermediate.L
+    100110: Ring Intermediate.R
+    100112: Ring Proximal.L
+    100114: Ring Proximal.R
+    100116: Shoulder.L
+    100118: Shoulder.R
+    100120: //RootNode
+    100122: Spine
+    100124: Thumb Distal.L
+    100126: Thumb Distal.R
+    100128: Thumb End.L
+    100130: Thumb End.L_end
+    100132: Thumb End.R
+    100134: Thumb End.R_end
+    100136: Thumb Intermediate.L
+    100138: Thumb Intermediate.R
+    100140: Thumb Proximal.L
+    100142: Thumb Proximal.R
+    100144: Toe.L
+    100146: Toe.L_end
+    100148: Toe.R
+    100150: Toe.R_end
+    100152: Upper Arm.L
+    100154: Upper Arm.R
+    100156: Upper Leg.L
+    100158: Upper Leg.R
+    400000: Armature
+    400002: Body
+    400004: Chest
+    400006: Foot.L
+    400008: Foot.R
+    400010: Hand.L
+    400012: Hand.R
+    400014: Head
+    400016: Hips
+    400018: Index Distal.L
+    400020: Index Distal.R
+    400022: Index End.L
+    400024: Index End.L_end
+    400026: Index End.R
+    400028: Index End.R_end
+    400030: Index Intermediate.L
+    400032: Index Intermediate.R
+    400034: Index Proximal.L
+    400036: Index Proximal.R
+    400038: LeftEye
+    400040: LeftEye_end
+    400042: Little Distal.L
+    400044: Little Distal.R
+    400046: Little End.L
+    400048: Little End.L_end
+    400050: Little End.R
+    400052: Little End.R_end
+    400054: Little Intermediate.L
+    400056: Little Intermediate.R
+    400058: Little Proximal.L
+    400060: Little Proximal.R
+    400062: Lower Arm.L
+    400064: Lower Arm.R
+    400066: Lower Leg.L
+    400068: Lower Leg.R
+    400070: Middle Distal.L
+    400072: Middle Distal.R
+    400074: Middle End.L
+    400076: Middle End.L_end
+    400078: Middle End.R
+    400080: Middle End.R_end
+    400082: Middle Intermediate.L
+    400084: Middle Intermediate.R
+    400086: Middle Proximal.L
+    400088: Middle Proximal.R
+    400090: Neck
+    400092: RightEye
+    400094: RightEye_end
+    400096: Ring Distal.L
+    400098: Ring Distal.R
+    400100: Ring End.L
+    400102: Ring End.L_end
+    400104: Ring End.R
+    400106: Ring End.R_end
+    400108: Ring Intermediate.L
+    400110: Ring Intermediate.R
+    400112: Ring Proximal.L
+    400114: Ring Proximal.R
+    400116: Shoulder.L
+    400118: Shoulder.R
+    400120: //RootNode
+    400122: Spine
+    400124: Thumb Distal.L
+    400126: Thumb Distal.R
+    400128: Thumb End.L
+    400130: Thumb End.L_end
+    400132: Thumb End.R
+    400134: Thumb End.R_end
+    400136: Thumb Intermediate.L
+    400138: Thumb Intermediate.R
+    400140: Thumb Proximal.L
+    400142: Thumb Proximal.R
+    400144: Toe.L
+    400146: Toe.L_end
+    400148: Toe.R
+    400150: Toe.R_end
+    400152: Upper Arm.L
+    400154: Upper Arm.R
+    400156: Upper Leg.L
+    400158: Upper Leg.R
+    2100000: Mat_Parts02
+    2100002: Mat_Parts01
+    2100004: Mat_Standard
+    4300000: Body
+    9500000: //RootNode
+    13700000: Body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

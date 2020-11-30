@@ -1,0 +1,24 @@
+3Dキャラクターモデル「ユノン」 Ver.1.0.0
+ライセンス・著作権については別ファイルをお読みください。
+内容物は予告なくアップデート・変更・削除される場合があります。
+
+内容物
+VRChat用Unity Package・Prefab・表情アニメーションファイル
+VRM用Unity Package・prefab・設定済みVRMファイル（Virtual Cast, ClusterおよびVWorldで動作確認済)
+Unity用マテリアル(reflex shader2.1.1およびMToon shader)
+fbxファイル・改変用分割済fbxファイル・素体fbxファイル（素体の足首から下はありません）
+テクスチャファイル(png, psd, clip)
+reflex shader 2.1.1同梱
+※Clusterへのアップロードは"Yunon_Light.VRMを使用してください。
+
+-----------------------------------
+◎ VRChatへのアバターアップロード方法
+
+１．Unity Projectを作成してください。
+２．最新のVRChat SDKをインポートしてください。
+３．Dynamic Boneをお持ちの場合は、Dynamic Boneをインポートしてください。ない場合はそのまま５へ進んでください。
+４．同梱のUnity Package(Yunon_x.x.x.unitypackage)をインポートしてください。
+５．インポートされたAssetから、Prefabフォルダの中にあるYunon_Fullまたは Yunon_Lightをヒエラルキーにドラッグ＆ドロップしてください。
+　　Yunon_Full：Dynamic Boneをお持ちの方向け。アバターステータスは「Poor」(2019年3月7日現在)
+　　Yunon_Full：Dynamic Boneをお持ちでない方や、軽量なアバターを所望の場合はこちら。アバターステータスは「Medium」(2019年3月7日現在)
+６．アバターアップロードに必要な各種設定は完了しています。そのままVRChatへアップロードしてください。
